@@ -1,0 +1,87 @@
+2018-08-25T03:40:45.279Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-25T03:40:45.289Z - normal: checking language setting...
+2018-08-25T03:40:45.289Z - normal: Language: zh
+2018-08-25T03:40:49.659Z - success: protocol editor-framework registered
+2018-08-25T03:40:49.659Z - success: protocol app registered
+2018-08-25T03:40:49.659Z - success: protocol theme registered
+2018-08-25T03:40:49.659Z - success: protocol packages registered
+2018-08-25T03:40:49.669Z - success: protocol unpack registerred
+2018-08-25T03:40:49.669Z - success: protocol disable-commonjs registerred
+2018-08-25T03:40:49.869Z - normal: connected!
+2018-08-25T03:40:49.879Z - normal: Check project E:\git\Creator\EndlessMaze
+2018-08-25T03:40:49.899Z - normal: Initializing Cocos2d
+2018-08-25T03:40:51.209Z - normal: Initializing Asset Database
+2018-08-25T03:40:51.309Z - success: protocol uuid registerred
+2018-08-25T03:40:51.309Z - success: protocol db registerred
+2018-08-25T03:40:51.309Z - success: protocol thumbnail registerred
+2018-08-25T03:40:51.309Z - normal: Loading editor/builtin packages
+2018-08-25T03:40:51.399Z - success: anysdk loaded
+2018-08-25T03:40:51.659Z - success: assets loaded
+2018-08-25T03:40:51.669Z - success: builder loaded
+2018-08-25T03:40:51.669Z - success: cocos-analytics loaded
+2018-08-25T03:40:51.689Z - success: console loaded
+2018-08-25T03:40:51.759Z - success: fb-instant-games loaded
+2018-08-25T03:40:51.759Z - success: hierarchy loaded
+2018-08-25T03:40:51.769Z - success: inspector loaded
+2018-08-25T03:40:51.769Z - success: keystore loaded
+2018-08-25T03:40:51.769Z - success: node-library loaded
+2018-08-25T03:40:51.769Z - success: package-asset loaded
+2018-08-25T03:40:51.779Z - success: preferences loaded
+2018-08-25T03:40:51.779Z - success: project-exporter loaded
+2018-08-25T03:40:51.809Z - success: project-importer loaded
+2018-08-25T03:40:51.809Z - success: project-settings loaded
+2018-08-25T03:40:51.819Z - success: ui-kit loaded
+2018-08-25T03:40:51.829Z - success: ui-grid loaded
+2018-08-25T03:40:51.829Z - success: scene loaded
+2018-08-25T03:40:51.829Z - success: sprite-editor loaded
+2018-08-25T03:40:51.839Z - success: store loaded
+2018-08-25T03:40:51.849Z - success: timeline loaded
+2018-08-25T03:40:51.849Z - normal: Loading builtin packages
+2018-08-25T03:40:51.849Z - success: asset-db-debugger loaded
+2018-08-25T03:40:51.859Z - success: code-editor loaded
+2018-08-25T03:40:51.869Z - success: color-picker loaded
+2018-08-25T03:40:51.869Z - success: package-manager loaded
+2018-08-25T03:40:51.879Z - success: sdkbox loaded
+2018-08-25T03:40:51.889Z - success: tester loaded
+2018-08-25T03:40:51.889Z - success: ui-kit-preview-extra loaded
+2018-08-25T03:40:51.889Z - success: ui-kit-preview loaded
+2018-08-25T03:40:51.889Z - success: ui-tree loaded
+2018-08-25T03:40:54.789Z - normal: Initializing project E:\git\Creator\EndlessMaze
+2018-08-25T03:40:54.789Z - normal: Loading packages
+2018-08-25T03:40:54.859Z - success: visual-fsm loaded
+2018-08-25T03:40:54.859Z - normal: Watching packages
+2018-08-25T03:40:54.919Z - normal: Run Application
+2018-08-25T03:40:56.596Z - success: preview server running at http://localhost:7456
+2018-08-25T03:41:07.022Z - normal: 1.9.0
+2018-08-25T07:26:34.778Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:251593
+2018-08-25T07:26:34.800Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:251597
+2018-08-25T08:18:14.760Z - error: [db-task][delete] Failed to delete asset b2a0281b-f4f9-400d-b9ce-74d6e7066702, messages: Error: EBUSY: resource busy or locked, unlink 'E:\git\Creator\EndlessMaze\assets\res\ui\button_2.JPG'
+    at s.AssetDB.error (D:\cocosCreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at _deleteAsset (D:\cocosCreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:19400)
+    at Async.series.e (D:\cocosCreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:10243)
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+2018-08-25T08:18:25.200Z - error: [db-task][delete] Failed to delete asset b2a0281b-f4f9-400d-b9ce-74d6e7066702, messages: Error: EBUSY: resource busy or locked, unlink 'E:\git\Creator\EndlessMaze\assets\res\ui\button_2.JPG'
+    at s.AssetDB.error (D:\cocosCreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at _deleteAsset (D:\cocosCreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:19400)
+    at Async.series.e (D:\cocosCreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:10243)
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+2018-08-25T08:18:45.583Z - error: [db-task][delete] Failed to delete asset b2a0281b-f4f9-400d-b9ce-74d6e7066702, messages: Error: EBUSY: resource busy or locked, unlink 'E:\git\Creator\EndlessMaze\assets\res\ui\button_2.JPG'
+    at s.AssetDB.error (D:\cocosCreator\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at _deleteAsset (D:\cocosCreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:19400)
+    at Async.series.e (D:\cocosCreator\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:10243)
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37

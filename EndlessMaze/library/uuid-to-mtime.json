@@ -243,5 +243,70 @@
     "asset": 1535160552179,
     "meta": 1535160552182,
     "relativePath": "resources"
+  },
+  "5d2a5879-b40b-4b87-a15e-1438e9d9c0bc": {
+    "asset": 1535179560698,
+    "meta": 1535179560702,
+    "relativePath": "res\\ui"
+  },
+  "556ccab3-97c5-47bd-9755-daec4d3351ae": {
+    "asset": 1535179566438,
+    "meta": 1535179566439,
+    "relativePath": "res\\icon"
+  },
+  "bd385813-4bef-4b30-b977-990e7be42011": {
+    "asset": 1535180584689,
+    "meta": 1535180584695,
+    "relativePath": "res\\textures"
+  },
+  "994bffb9-0b00-436a-af42-1cc34c27bdea": {
+    "asset": 1535180816396,
+    "meta": 1535180816585,
+    "relativePath": "res\\textures\\bg_2.jpg"
+  },
+  "86e68516-1b97-4fec-8636-6c9227924654": {
+    "asset": 1535180816315,
+    "meta": 1535180816589,
+    "relativePath": "res\\textures\\bg_1.jpg"
+  },
+  "3fe2b0d4-76b8-4c2a-b2a1-186b165462bc": {
+    "asset": 1535197814282,
+    "meta": 1535197814324,
+    "relativePath": "scenes\\login.fire"
+  },
+  "32c461a5-94bf-4b89-889d-5b0ee958d5bf": {
+    "asset": 1535183620950,
+    "meta": 1535183934323,
+    "relativePath": "res\\ui\\input.png"
+  },
+  "5cefb20b-9699-4200-a317-390d6341acdb": {
+    "asset": 1535183620949,
+    "meta": 1535183621044,
+    "relativePath": "res\\ui\\title.png"
+  },
+  "bf60edd5-c062-404d-9291-b73f6a662ad5": {
+    "asset": 1535183620951,
+    "meta": 1535183738763,
+    "relativePath": "res\\ui\\panel.png"
+  },
+  "a473a6d9-1c73-4d9e-a4c4-afb349798057": {
+    "asset": 1535184072793,
+    "meta": 1535184097387,
+    "relativePath": "res\\ui\\content.png"
+  },
+  "a3fc854a-ec93-4a55-b906-b357896b97dc": {
+    "asset": 1535184436495,
+    "meta": 1535184436536,
+    "relativePath": "res\\ui\\input_5.png"
+  },
+  "3ac94741-0a31-48af-aa9d-ac70d4f34c6d": {
+    "asset": 1535185082442,
+    "meta": 1535185082493,
+    "relativePath": "res\\ui\\button_1.png"
+  },
+  "aecea094-6654-46e0-9c0b-f40b30173c08": {
+    "asset": 1535185191776,
+    "meta": 1535185191851,
+    "relativePath": "res\\ui\\button_2.png"
   }
 }
